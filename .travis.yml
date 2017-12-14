@@ -1,0 +1,6 @@
+language: python
+python:
+  - "3.6"
+install:
+script:
+  - python tet_calc.py
