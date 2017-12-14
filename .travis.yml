@@ -4,4 +4,4 @@ python:
 #command to run test
 install:
 script:
-  - python tet_calc.py
+  - python test_calc.py
